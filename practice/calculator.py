@@ -32,5 +32,4 @@ def calculator(a, b, operation):
     else:
         return "Error: Invalid operation"
 
-
 main()
